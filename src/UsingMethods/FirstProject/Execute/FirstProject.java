@@ -1,8 +1,8 @@
-package UsingMethods.Execute;
+package UsingMethods.FirstProject.Execute;
 
-import UsingMethods.Domain.ArithmeticDomain;
-import UsingMethods.Domain.DailyMessageDomain;
-import UsingMethods.Domain.OverdraftDomain;
+import UsingMethods.FirstProject.Domain.ArithmeticDomain;
+import UsingMethods.FirstProject.Domain.DailyMessageDomain;
+import UsingMethods.FirstProject.Domain.OverdraftDomain;
 
 public class FirstProject {
     public static void main(String[] args) {

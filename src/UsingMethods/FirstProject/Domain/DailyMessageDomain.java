@@ -1,4 +1,4 @@
-package UsingMethods.Domain;
+package UsingMethods.FirstProject.Domain;
 
 public class DailyMessageDomain {
     double hourVariable;

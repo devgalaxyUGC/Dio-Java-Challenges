@@ -1,4 +1,4 @@
-package UsingMethods.Domain;
+package UsingMethods.FirstProject.Domain;
 
 public class ArithmeticDomain {
     public void sumNumbers(double a, double b){
