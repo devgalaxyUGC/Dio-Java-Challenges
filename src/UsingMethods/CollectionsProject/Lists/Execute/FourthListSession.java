@@ -1,4 +1,4 @@
-package UsingMethods.CollectionsProject.Execute;
+package UsingMethods.CollectionsProject.Lists.Execute;
 
 import java.util.ArrayList;
 import java.util.Iterator;

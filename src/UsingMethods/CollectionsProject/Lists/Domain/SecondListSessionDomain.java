@@ -1,4 +1,4 @@
-package UsingMethods.CollectionsProject.Domain;
+package UsingMethods.CollectionsProject.Lists.Domain;
 
 public class SecondListSessionDomain implements Comparable<SecondListSessionDomain> {
     private String Name;

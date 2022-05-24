@@ -1,6 +1,6 @@
-package UsingMethods.CollectionsProject.Execute;
+package UsingMethods.CollectionsProject.Lists.Execute;
 
-import UsingMethods.CollectionsProject.Domain.SecondListSessionDomain;
+import UsingMethods.CollectionsProject.Lists.Domain.SecondListSessionDomain;
 
 import java.util.ArrayList;
 import java.util.Collections;

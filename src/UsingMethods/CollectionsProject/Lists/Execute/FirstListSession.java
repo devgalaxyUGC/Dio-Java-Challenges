@@ -1,4 +1,4 @@
-package UsingMethods.CollectionsProject.Execute;
+package UsingMethods.CollectionsProject.Lists.Execute;
 import java.util.*;
 /*
     Make a program that put notes on a list and, then, print them
